@@ -113,10 +113,10 @@ def main():
     """
     Main function
     """
-    # train_df, test_df = kaggle_data()
-    train_df, test_df = sentiment140_data()
+    train_df, test_df = kaggle_data()
+    # train_df, test_df = sentiment140_data()
     logistic_regression(train_df, test_df)
-    # random_forest(train_df, test_df)
+    random_forest(train_df, test_df)
     
 if __name__ == '__main__':
     main()
