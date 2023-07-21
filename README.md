@@ -53,7 +53,7 @@ If the output is `True`, then congratulation that you can start from the trainin
 
 ### To check the result of the Logistic Regression and Random Forest:
 
-you can simply run [main.py](. /main.py)
+you can simply run [main.py](./main.py)
 
 #### Testing the Kaggle dataset:
 
